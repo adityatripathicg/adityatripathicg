@@ -1,13 +1,19 @@
-# Hi there 👋, I'm Aditya Tripathi (CG)  
+<h1 align="center">Hi there 👋, I'm Aditya Tripathi (CG)</h1>  
 
-🚀 Frontend-Focused Full Stack Developer | Exploring Web3  
+<p align="center">
+  🚀 <b>Frontend-Focused Full Stack Developer</b> | Exploring <b>Web3</b>  
+</p>
 
 ---
 
 ## 🌟 Portfolio Highlight  
 
-📂 Most of my coolest projects are **private** — but you can view them all here:  
-👉 **[Check Out My Portfolio](https://aditya-tripathi.vercel.app/)**  
+📂 Most of my coolest projects are **private**, but you can view them all here:  
+<p align="center">
+  <a href="https://aditya-tripathi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>  
 
 ---
 
@@ -35,12 +41,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,python,c" height="160" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityatripathicg.adityatripathicg&" alt="visitor badge"/>
+</div>  
 
 ---
 
@@ -52,12 +55,17 @@
 
 ---
 
-## 📬 Connect with me  
+## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityatripathicg/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ChainCoderCG)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatripathi3906@email.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityatripathicg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ChainCoderCG"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:adityatripathi3906@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ---
 
-✨ Most of my code lives in **private repos**, but my **portfolio showcases the real work** → [aditya-tripathi.vercel.app](https://aditya-tripathi.vercel.app/)  
+<p align="center">
+  ✨ Most of my code lives in <b>private repos</b>, but my portfolio showcases the real work →  
+  <a href="https://aditya-tripathi.vercel.app/"><b>aditya-tripathi.vercel.app</b></a>
+</p>
